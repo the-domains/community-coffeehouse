@@ -1,0 +1,28 @@
+name: Community Coffeehouse
+favicon: null
+layout_spectrum: 0.9751321100629866
+typography_spectrum: 0.6848597570788115
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.4440396453719586
+  lightness: 0.9650705724488944
+  saturation: 0.6171851302497089
+  rhythmicContrast: 0.8574379889760166
+purpose: []
